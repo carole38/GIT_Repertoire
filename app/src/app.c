@@ -21,7 +21,7 @@ int main(int argc, char **argv) {
 }
 
 int liba_goodbye() {
- printf ("good bye");
+ printf ("toto");
  return 0;
  }
 
