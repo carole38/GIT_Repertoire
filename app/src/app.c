@@ -25,4 +25,8 @@ int liba_goodbye() {
  return 0;
  }
 
+ int libb_goodbye() {
+ printf ("on masque");
+ return 0;
+ }
 /* EOF */
