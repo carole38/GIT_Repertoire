@@ -21,12 +21,12 @@ int main(int argc, char **argv) {
 }
 
 int liba_goodbye() {
- printf ("good bye");
+ printf ("good bye Carole");
  return 0;
  }
 
  int libb_goodbye() {
- printf ("on masque");
+ printf ("on masque VB");
  return 0;
  }
 /* EOF */
